@@ -1,0 +1,18 @@
+Week 4: Git Branch Management Practice
+
+Student Name: Safaa Mansour
+
+Student ID: 2311604167
+
+Tasks Completed:
+
+Created a new feature branch.
+
+Switched between Git branches.
+
+Created a new text file.
+
+Practiced Git branch management.
+
+Learning Outcome:
+I learned how to create a new branch, switch between branches, and organize project work using Git.
