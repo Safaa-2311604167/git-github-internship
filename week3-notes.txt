@@ -1,0 +1,137 @@
+WEEK 3: GITHUB ISSUE TRACKING, MARKDOWN AND FILE RECOVERY
+
+Student Name: Safaa Mansour
+Student ID: 2311604167
+University: Hubei University of Technology
+Department: Computer Science and Technology
+
+GitHub Issue Tracking Practice
+
+Objective:
+To practice creating, managing, labeling, and tracking project tasks using GitHub Issues.
+
+Tasks Completed:
+
+Created a new GitHub Issue.
+
+Added a clear title and detailed description.
+
+Explored GitHub Issue management features.
+
+Applied the documentation label.
+
+Changed the issue status to Completed.
+
+Closed the issue after completing the task.
+
+Issue Title: Week 3: GitHub Issue Tracking Practice
+Issue Number: #2
+Label: documentation
+Status: Completed / Closed
+
+Learning Outcome:
+I learned how GitHub Issues help organize tasks, monitor progress, and manage project activities.
+
+Markdown Practice
+
+File Created: docs/markdown-practice.md
+
+Tasks Completed:
+
+Practiced headings and text formatting.
+
+Used bold, italic, and strikethrough text.
+
+Created ordered and unordered lists.
+
+Added hyperlinks.
+
+Created a Markdown table.
+
+Added code blocks.
+
+Viewed the rendered Markdown Preview on GitHub.
+
+Learning Outcome:
+I learned how to use Markdown to create well-organized and readable project documentation.
+
+Git File Recovery Practice
+
+Objective:
+To understand how Git can restore a deleted file from a previous commit.
+
+Tasks Completed:
+
+Step 1: Created a test file.
+
+echo "This is a Git recovery practice file." > recovery-test.txt
+
+Step 2: Checked the repository status.
+
+git status
+
+Step 3: Added and committed the file.
+
+git add recovery-test.txt
+git commit -m "Add recovery test file"
+
+Step 4: Deleted the test file.
+
+rm recovery-test.txt
+
+Step 5: Checked the deletion status.
+
+git status
+
+Step 6: Restored the deleted file.
+
+git restore recovery-test.txt
+
+Step 7: Verified the recovered file.
+
+ls
+cat recovery-test.txt
+
+Verified Output:
+This is a Git recovery practice file.
+
+Step 8: Checked the final repository status.
+
+git status
+
+Result:
+The deleted file was successfully recovered using the Git restore command. The working tree was clean after recovery.
+
+GitHub Synchronization
+
+Commands Used:
+
+git push origin main
+git status
+
+Result:
+The recovery commit was successfully pushed to the remote GitHub repository.
+
+Recovery Commit ID: 6d37aa7
+
+Learning Outcomes
+
+Through Week 3, I learned:
+
+How to create and manage GitHub Issues.
+
+How to organize tasks using labels and status.
+
+How to format project documentation using Markdown.
+
+How to create lists, tables, links, and code blocks.
+
+How to identify deleted files using Git status.
+
+How to recover deleted files using git restore.
+
+How to commit and push changes to GitHub.
+
+Conclusion:
+
+Week 3 improved my practical understanding of GitHub project management, Markdown documentation, and Git file recovery. I successfully completed the assigned tasks and synchronized my changes with the remote repository.
