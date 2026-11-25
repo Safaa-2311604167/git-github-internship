@@ -1,0 +1,13 @@
+Git and GitHub Internship
+
+Student Name: Safaa Mansour
+Student ID: 2311604167
+University: Hubei University of Technology
+Department: Computer Science and Technology
+
+Week 1: Git Fundamentals
+
+Task 1: Git Installation
+Task 2: Git Configuration
+Task 3: Repository Cloning
+Task 4: Working Directory and Git Status
