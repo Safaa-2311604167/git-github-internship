@@ -1,0 +1,12 @@
+Week 2: GitHub Collaboration
+
+Student Name: Safaa Mansour
+Student ID: 2311604167
+
+Task 1: Create a New Branch
+Task 2: Switch Between Branches
+Task 3: Make Changes in Feature Branch
+
+Learning Outcome:
+I learned how to create a separate feature branch
+and switch between different branches in Git.
